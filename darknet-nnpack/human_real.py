@@ -74,6 +74,3 @@ if __name__ == '__main__':
     # 終了処理
     #cv2.destroyAllWindows()
     cap.release()
-
-
-    aaaaaaa
