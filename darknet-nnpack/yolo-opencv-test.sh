@@ -1,0 +1,1 @@
+./darknet detector test cfg/obj.data cfg/yolov3-tiny_obj2.cfg yolov3-tiny_obj2_last.weights  /workspace/host/darknet-nnpack/1.jpg 
